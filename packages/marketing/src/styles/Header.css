@@ -1,0 +1,10 @@
+.navList {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+}
